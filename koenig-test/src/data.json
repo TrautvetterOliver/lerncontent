@@ -1,0 +1,32 @@
+{
+    "header": {
+      "h1": "THG-Prämie mit Autohaus König",
+      "bild": {
+        "id": 1,
+        "pfad": "./assets/bilder/header-grafik.jpg",
+        "mobil-pfad": "./assets/bilder/header-grafik-mobil.jpg",
+        "alt": "eAuto-Taschengeld – Jetzt schnell beantragen."
+      }
+    },
+    "sections": [
+      {
+        "id": 1,
+        "h2": "Erhalten Sie ganz einfach bis zu 380 € Prämie für Ihr Elektroauto",
+        "bild": {
+          "id": 1,
+          "pfad": "./assets/bilder/header-grafik.jpg",
+          "alt": "eAuto-Taschengeld – Jetzt schnell beantragen."
+        }
+      },
+      {
+        "id": 2,
+        "h2": "'Sehr Gut' - Auszeichnung für den THG-Partner 'Geld für eAuto'",
+        "content": {
+          "h3": "Die Plattform für eAuto und die innovative Vision",
+          "text1": "Das Unternehmen mit den Hamburger Wurzeln hat es sich zur Aufgabe gemacht, die eMobilität voranzutreiben und den emissionsfreien Verkehr zu fördern. Aus diesem Grund setzt sich das Team von Geld für eAuto aktiv dafür ein, die THG Prämie für seine Nutzer zugänglich zu machen. Im Kern stellt die Plattform intelligente, digitale Lösungen zur Verfügung, die es Haltern von Elektrofahrzeugen ermöglichen, mit minimalem Aufwand vom THG-Quotenhandel mit Strom zu profitieren.",
+          "text2": "Nicht nur die Nutzer sind von der Geld für eAuto Plattform überzeugt. Auch das Fachmagazin 'electricar' zeichnete die Plattform im ersten Quartal 2023 mit 'Sehr gut' aus."
+        }
+      }
+    ]
+  }
+  
